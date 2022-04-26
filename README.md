@@ -1,6 +1,6 @@
 <h1>Enricky Hipólito</h1>
 
-Bom dia! atualmente procuro experiências e ferramentas novas para aprender. Adoro criar e construir aplicações. 
+Bom dia! atualmente procuro experiências e ferramentas novas para aprender. Adoro criar e desenvolver aplicações. 
 Sou formado no Curso Técnico de Informática no IFSC Campûs Garopaba-SC (2019-2021). Atualmente cursando a graduação de Sistemas para Internet no mesmo.
 
 <div style="display: inline_block"><br>
