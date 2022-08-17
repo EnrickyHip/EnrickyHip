@@ -1,10 +1,17 @@
 <h1>Enricky Hipólito</h1>
 
-Bom dia! atualmente procuro experiências e ferramentas novas para aprender. Adoro criar e desenvolver aplicações. 
-Sou formado no Curso Técnico de Informática no IFSC Campûs Garopaba-SC (2019-2021). Atualmente cursando a graduação de Sistemas para Internet no mesmo.
+Hello! My name is Enricky Hipólito, I am a Software Developer from Brazil. I'm a Technology Technician and Nowadays graduating on Sistemas Para Internet (Internet Systems) at the Brazilian Federal Institute of Santa Catarina (IFSC). Constantly developing and learning new tools, mostly for the web, for both back-end and front-end. But I'd like to work on desktop applications and game development some day. Nowadays I'm searching for new opportunities and experiences. 
 
-<div style="display: inline_block"><br>
-  <h2>Linguagens, Frameworks, Bibliotecas e Ferramentas</h2>
+<a href="https://www.linkedin.com/in/enricky-hip%C3%B3lito-9032b9239">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&LogoColor=white&style=for-the-badge" alt="Linkedin Badge">
+</a>
+
+<a href="mailto:enricky.hipolito@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+</a>
+
+<div style="display: inline_block">
+  <h2>Languages and Tools</h2>
   <img align="center" alt="Enricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Enricky-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Enricky-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
